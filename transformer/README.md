@@ -1,0 +1,1 @@
+https://rubikscode.net/2019/08/05/transformer-with-python-and-tensorflow-2-0-attention-layers/
